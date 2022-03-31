@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **NAME**
+Submitted by: Likashmi Deosaran
 
 Time spent: **#** hours spent in total
 
