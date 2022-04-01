@@ -4,7 +4,7 @@
 
 Submitted by: Likashmi Deosaran
 
-Time spent: **#** hours spent in total
+Time spent: 10 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/codepath-prework-internship-game
 
