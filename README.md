@@ -41,6 +41,12 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 https://recordit.co/5pKpfYj0nY
 
+
+
+https://user-images.githubusercontent.com/83933058/161351095-f94603d8-2130-4454-85b0-b859fcdeaecf.mp4
+
+
+
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
