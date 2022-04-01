@@ -44,7 +44,7 @@ https://recordit.co/5pKpfYj0nY
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-I used google with some help from mainly https://stackoverflow.com/.
+I used google with some help from mainly from https://stackoverflow.com/.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
